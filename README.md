@@ -7,10 +7,3 @@ This project aims to analyze COVID-19 trends through policy making from the firs
 
 
 ### Snowflake Schema
-
-## Predictions and Analysis
-
-## Challenges
-
-## Learning Takeaways
-
